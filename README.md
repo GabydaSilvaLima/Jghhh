@@ -12,4 +12,4 @@ https://mycdn.delivery/hbo/index.m3u8
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 
-https://edge11-gru.live.mmcdn.com/live-hls/amlst:miss_juliaa-sd-a207f40fccf4c5e92e241fe0688d52cbff9aa8cd2398212f1ae7e355f6b08d7f_trns_h264/playlist.m3u8
+https://edge18-gru.live.mmcdn.com/live-hls/amlst:daily_stories-sd-d1311ab9bb28ff0727ac70489ae367e9989ef1069e51b4f38fbbb4b20045c669_trns_h264/playlist.m3u8
