@@ -6,8 +6,8 @@ https://edge11-gru.live.mmcdn.com/live-hls/amlst:thatgirl___-sd-10c211d701d78170
 
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lGrMVOvMDTlut2c-640lhvQvxr-pN0XS-dhRZYDe4lW5FR4XfrzqgNCb9KW_zY0LdMc_osRtRvAZSqu79jnmW1_ss7lbuhWbxYE_5PhJy_35vt-vooZNdbk70vpmlawg8GTFBsJBvGxzjNondZywqrKrwa6ofQqhmQKg6EjlRLpk8tJXYK9xAA_u83A/s50/logo-hbo.png" goup-title="",Animes"", HBO HD
-https://mycdn.delivery/hbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2IKF1mJ7qRD6PP5QZgIuXosryydALZf39Al_5yS_WKAM1RZFipIEI63cg9c2OuWpOR8pvqji6DiyUDOqwQwVVTGp0gqAzLs2jAzCWxd0ezRU2UO9DCM7otvZmRbzArioUc8wNCsGFoB6Oxf3EHqUpWzOdDtfE-XhE6dhuIujK6TB-8hjREdA50MtHZ9W9/s169/download.webp" goup-title="",Animes"", RE:ZERO TEST
+https://cdn01-s1.mywallpaper-cdn-4k.com/stream/R/rezero-kara-hajimeru-isekai-seikatsu-3/01.mp4/index.m3u8
 
 #EXTM3U
  
