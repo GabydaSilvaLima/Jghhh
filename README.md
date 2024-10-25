@@ -13,3 +13,7 @@ https://mycdn.delivery/hbo/index.m3u8
  
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 
 https://edge18-gru.live.mmcdn.com/live-hls/amlst:daily_stories-sd-d1311ab9bb28ff0727ac70489ae367e9989ef1069e51b4f38fbbb4b20045c669_trns_h264/playlist.m3u8
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 
+https://edge12-gru.live.mmcdn.com/live-hls/amlst:heyitscoco_xx-sd-724f288c9a5e4148738360b8fa07f9f0296f0d75dce599b6ee22775cc6b51e89_trns_h264/chunklist_w1737852972_b408000_t64RlBTOjI5Ljk3MDAyOTk3MDAyOTk3.m3u8
