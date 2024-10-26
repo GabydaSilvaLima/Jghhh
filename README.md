@@ -1,7 +1,7 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqotQAx-WQsnix2CIZUi-FHY-KbUoXPt0olj5GBKu_gtvIw7x4kjFsxDIocA7gC1AyPu7ePTs_aHtwukyKbDg8bTqN4rFtvX4ce37N0RmX1xYRRZRrpCW9djsfd8fOczo_tmRrf2LTrijzzyHZVr762-AARNQsc4fuZ9QtQQ-z84QsfSAMHT6SEiCU1c/s71/OnlyFans-4.png" goup-title="",Animes"", ONLYFANS 4K 
-https://edge11-gru.live.mmcdn.com/live-hls/amlst:thatgirl___-sd-10c211d701d7817097f7c02c5a66b6939fca8837da80caa39a05763f36596ad2_trns_h264/playlist.m3u8
+#EXTINF:-1 tvg-logo="" goup-title="",Animes"", Adachi To Shimamura Dublado
+https://animesorionvip.net/aHR0cHM6Ly9hbmltZXNvbjAwMDAxMC5ibG9nc3BvdC5jb20vMjAyMS8wOS9hZGFjaGktdG8tc2hpbWFtdXJhLWR1YmxhZG8tZXBpc29kaW8tMS5odG1s/MjYvMTAvMjAyNA==/bg.mp4?q=QWRhY2hpIFRvIFNoaW1hbXVyYSBFcGlzw7NkaW8gMQ==&p=1&t=ZzQ2T1pXTDFncXBlcmhoNWV5Mld4N2FtSmtuNC9SZ296eWVZVERyNXZMbHhJdDB5UnRwTkJGTXpjcHAvTG1TZkJKVUdEb1hCV3hpNHM3Qk9iREYwNHMxcGVSNERpOW5pQ0I3ZHpQd1p6OGVGMk9EU3hIR2RoeWtZTmUxdVkxV0VnVlBkRUl6bnJmL2JEVDVicm9yaHlRPT0=
 
 
 #EXTM3U
