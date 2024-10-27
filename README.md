@@ -1,8 +1,7 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="" goup-title="",Animes"", Adachi To Shimamura Dublado
-https://animesorionvip.net/aHR0cHM6Ly9hbmltZXNvbjAwMDAxMC5ibG9nc3BvdC5jb20vMjAyMS8wOS9hZGFjaGktdG8tc2hpbWFtdXJhLWR1YmxhZG8tZXBpc29kaW8tMS5odG1s/MjYvMTAvMjAyNA==/bg.mp4?q=QWRhY2hpIFRvIFNoaW1hbXVyYSBFcGlzw7NkaW8gMQ==&p=1&t=ZzQ2T1pXTDFncXBlcmhoNWV5Mld4N2FtSmtuNC9SZ296eWVZVERyNXZMbHhJdDB5UnRwTkJGTXpjcHAvTG1TZkJKVUdEb1hCV3hpNHM3Qk9iREYwNHMxcGVSNERpOW5pQ0I3ZHpQd1p6OGVGMk9EU3hIR2RoeWtZTmUxdVkxV0VnVlBkRUl6bnJmL2JEVDVicm9yaHlRPT0=
-
+#EXTINF:-1 tvg-logo="" goup-title="",Animes"", Disney Channel 
+https://abc.embedmax.site/disneychannel/tracks-v1a1/mono.m3u8?sdf
 
 #EXTM3U
  
