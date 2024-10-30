@@ -14,5 +14,5 @@ https://cdn01-s1.mywallpaper-cdn-4k.com/stream/R/rezero-kara-hajimeru-isekai-sei
 https://edge18-gru.live.mmcdn.com/live-hls/amlst:daily_stories-sd-d1311ab9bb28ff0727ac70489ae367e9989ef1069e51b4f38fbbb4b20045c669_trns_h264/playlist.m3u8
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 
+#EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 77
 https://edge17-gru.live.mmcdn.com/live-hls/amlst:miss_juliaa-sd-8a3e6e7ed7f53b033702013d8218ef9755b432b6fe7dc5f137c0a024edd0ab5c_trns_h264/playlist.m3u8
