@@ -15,4 +15,4 @@ https://edge18-gru.live.mmcdn.com/live-hls/amlst:daily_stories-sd-d1311ab9bb28ff
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 
-https://edge12-gru.live.mmcdn.com/live-hls/amlst:heyitscoco_xx-sd-724f288c9a5e4148738360b8fa07f9f0296f0d75dce599b6ee22775cc6b51e89_trns_h264/chunklist_w1737852972_b408000_t64RlBTOjI5Ljk3MDAyOTk3MDAyOTk3.m3u8
+https://edge17-gru.live.mmcdn.com/live-hls/amlst:miss_juliaa-sd-8a3e6e7ed7f53b033702013d8218ef9755b432b6fe7dc5f137c0a024edd0ab5c_trns_h264/playlist.m3u8
