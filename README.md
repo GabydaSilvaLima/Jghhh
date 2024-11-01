@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", Disney Channel 
-https://abc.embedmax.site/disneychannel/tracks-v1a1/mono.m3u8?sdf
+https://edge12-gru.live.mmcdn.com/live-hls/amlst:heyitscoco_xx-sd-2123d032988023d05eadd857d38c76731046e671705fb5f83b4eebca100ecc8e_trns_h264/chunklist_w2060393385_b1038000_t64RlBTOjI5Ljk3MDAyOTk3MDAyOTk3.m3u8
 
 #EXTM3U
  
@@ -11,8 +11,7 @@ https://cdn01-s1.mywallpaper-cdn-4k.com/stream/R/rezero-kara-hajimeru-isekai-sei
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 
-https://edge18-gru.live.mmcdn.com/live-hls/amlst:daily_stories-sd-d1311ab9bb28ff0727ac70489ae367e9989ef1069e51b4f38fbbb4b20045c669_trns_h264/playlist.m3u8
+
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 77
-https://edge17-gru.live.mmcdn.com/live-hls/amlst:miss_juliaa-sd-8a3e6e7ed7f53b033702013d8218ef9755b432b6fe7dc5f137c0a024edd0ab5c_trns_h264/playlist.m3u8
