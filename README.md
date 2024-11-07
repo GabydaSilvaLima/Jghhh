@@ -1,7 +1,7 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="" goup-title="",Animes"", Disney Channel 
-https://edge12-gru.live.mmcdn.com/live-hls/amlst:heyitscoco_xx-sd-2123d032988023d05eadd857d38c76731046e671705fb5f83b4eebca100ecc8e_trns_h264/chunklist_w2060393385_b1038000_t64RlBTOjI5Ljk3MDAyOTk3MDAyOTk3.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwypq0865gQBZU4XNCAOE9ZcxdaMRHH5WFLpaBt2jFul7zVdvVLKxPu2_kwfLHvx5aY17_QSezeUiM1li2gwBVa928msK5ZAx2gK4e4QQCUmYs7vv77nJ-w-xSU7hnwAPlUy0yu42YYrM3z7QjNqR13iyw4mfGQsH1zmXWkCBxCQSt7qznXhB1cj7ZQwg/s200/ANIMAX.jpg" goup-title="",Animes"", ANIMAX 
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 #EXTM3U
  
