@@ -10,8 +10,8 @@ https://cdn01-s1.mywallpaper-cdn-4k.com/stream/R/rezero-kara-hajimeru-isekai-sei
 
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 
-https://animesorionvip.net/aHR0cHM6Ly9hbmltZXNvbjAwMDAxMC5ibG9nc3BvdC5jb20vMjAyNC8xMS9yZWtpc2hpLW5pLW5va29ydS1ha3Vqby1uaS1uYXJ1LXpvXzEzLmh0bWw=/MjMvMTEvMjAyNA==/bg.mp4?q=UmVraXNoaSBuaSBOb2tvcnUgQWt1am8gbmkgTmFydSB6byBFcGlzw7NkaW8gNw==&p=1&t=NTFXNGY4T3hwcG1iMjgyUmE1NldLazMyVnJMUThNQjMxZDVoUGFaZzh5NTFBbFhEWU53YTYxVXFyMWg1QUNVYVJiWS8xWm1WYmFCek9CZnJrTUJpYjIxem94RkZ6Zis5QkxKWHVaRWR2ZndZZDQzR0UwK29RcXo0Ni9NR3A4VU85alBYWXViWkFjc0pPRFREQkh5RSsvUkVvSmd2cXFUbFU5MytqbGxwWWVBPQ==
+#EXTINF:-1 tvg-logo="" goup-title="",Animes"", Wording tv
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", privacy 77
