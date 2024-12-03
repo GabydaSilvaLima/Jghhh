@@ -14,5 +14,5 @@ https://cdn01-s1.mywallpaper-cdn-4k.com/stream/R/rezero-kara-hajimeru-isekai-sei
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="" goup-title="",Animes"", Dandadan
-https://cdn-zenitsu-2-gamabunta.b-cdn.net/cf/hls/animes/dandadan/001.mp4/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="" goup-title="",Animes"", vixenp SD
+https://edge1-gru.live.mmcdn.com/live-hls/amlst:vixenp-sd-34fa84118d81a8f4ad77fd6e958decaa8d51ab58637306b08015fbeda7c8baf2_trns_h264/playlist.m3u8
