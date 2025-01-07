@@ -16,3 +16,6 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w2046058412.m3u8
+
+#EXTINF:-1 tvg-logo="" goup-title="",Animes"", test desenho 
+https://s2.mywallpapers4k.com/stream/Desenhos/G/gravity-falls-dublado/01.mp4/index-v1-a1.m3u8
