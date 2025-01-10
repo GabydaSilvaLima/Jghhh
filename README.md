@@ -19,3 +19,6 @@ https://stmv1.srvif.com/otaku/otaku/chunklist_w2046058412.m3u8
 
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", test desenho 
 https://s2.mywallpapers4k.com/stream/Desenhos/G/gravity-falls-dublado/01.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="" goup-title="",Animes"", test desenho 
+https://edge9-gru.live.mmcdn.com/live-hls/amlst:vixenp-sd-2e5544506f77e1a72590298cf7e8140260f392ca34c1b1fe9b8d4ecaa686ece6_trns_h264/playlist.m3u8
