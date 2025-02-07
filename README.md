@@ -18,7 +18,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stmv1.srvif.com/otaku/otaku/chunklist_w2046058412.m3u8
 
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", test desenho 
-https://s2.mywallpapers4k.com/stream/Desenhos/G/gravity-falls-dublado/01.mp4/index-v1-a1.m3u8
+https://pinterest.ink/file/straplums/880178/d-o-r-a-m-a-s-jpg/198004/1/dub/1/Original.txt?auth_key=9yXh4pwattcMDpYLdyME6LMQytt6v1qceXn&expires=1714447534
 
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", Non Non Biyori: Vacation
 https://s2.mywallpapers4k.com/stream/Uploads/Filmes/N/non-non-biyori-movie-vacation/filme-01.mp4/index-v1-a1.m3u8
